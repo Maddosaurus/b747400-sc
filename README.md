@@ -12,3 +12,6 @@ Just clone this repository into the folder of your B747
 * Throttle (w/o reverse)
 * Flaps
 * Rudder Trim (w/o the button)
+
+### What doesn't work:
+* FMS KEypad Key 0 seems to be broken (reaaaaally strange)
